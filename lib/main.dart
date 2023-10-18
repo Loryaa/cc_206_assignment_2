@@ -48,7 +48,7 @@ class MyProfile extends StatelessWidget {
           Text("Information", style: TextStyle(fontSize: 16.0, fontWeight: FontWeight.bold)),
           Divider(),
           InformationRow(icon: Icons.email, title: "Email:", data: "gloriamarie.lamsin@wvsu.edu.ph"),
-          InformationRow(icon: Icons.account_box, title: "Contact Number:", data: "09129337275"),
+          InformationRow(icon: Icons.phone_android, title: "Contact Number:", data: "09129337275"),
           InformationRow(icon: Icons.favorite, title: "Hobbies:", data: "Gaming, Sleeping, and Reading"),
           InformationRow(icon: Icons.location_on, title: "Location:", data: "Brgy. Palanguia, Pototan, Iloilo"),
           InformationRow(icon: Icons.school, title: "Education:", data: "West Visayas State University"),
